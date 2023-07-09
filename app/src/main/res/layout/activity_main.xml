@@ -10,10 +10,10 @@
         android:id="@+id/data_tv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Expression here"
+
         android:textAlignment="viewEnd"
         android:layout_marginEnd="12dp"
-        android:textSize="28dp"
+        android:textSize="25dp"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
